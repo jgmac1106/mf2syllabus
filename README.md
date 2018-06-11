@@ -1,7 +1,4 @@
-# Large header followed by grid elements
+# A CSS Grid Syllabus with microformats2
 
-A common web layout built with CSS grid (and cats!)
-
-This code is licensed for reuse under the MIT license
-https://github.com/SamsungInternet/examples/blob/master/LICENSE
+I am trying to create an easy to remix syllabus that uses Css Grid.
 
